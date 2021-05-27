@@ -1,0 +1,20 @@
+Ejercicio consultas SQL:
+
+En la AFA quieren organizar mejor las estadisticas del campeonato de primera division. Y para ello deciden armar una base de datos con los equipos, los DTs y los jugadores.
+
+Quieren guardar los siguientes datos:
+Equipos: Nombre, fecha fundacion, nombre y apellido del Presidente, Direccion (calle, numero, localidad, provincia), Telefonos, emails, fechas entre las cuales estuvo en primera division.
+
+DTs: Nombre y apellido, DNI, Direccion (calle, numero, localidad, provincia), Telefonos, emails, club dirigido, fechas entre las cuales los dirigio.
+
+Jugadores: Nombre y apellido, DNI, Direccion (calle, numero, localidad, provincia), Telefonos, emails, club, fechas entre las cuales jugo, fecha de nacimiento, fecha de debut, partidos jugados, goles, peso, altura, posicion en la cancha.
+
+Se pide:
+1 – Dibujar el DER.
+2 – Crear las tablas y cargarle 10 registros al  azar a cada una
+3 – Hacer las siguientes consultas:
+a) Cuantos jugadores tiene cada equipo?
+b) Que equipos no estuvieron en primera division en los ultimos cinco años?
+c) Que jugadores fueron dirigidos por el mismo DT en más de un equipo?
+d) Cuántos defensores tiene cada equipo?
+e) Cuántos jugadores hay jugando en cada provincia?
